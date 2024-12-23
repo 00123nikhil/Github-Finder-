@@ -1,4 +1,4 @@
-# GitHub Finder
+# GitHub User Finder
 
 GitHub Finder is a web application that allows users to search for GitHub profiles and view their repositories. It is built using HTML, CSS, and JavaScript.
 
